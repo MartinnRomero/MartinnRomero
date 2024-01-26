@@ -6,7 +6,7 @@
 
 <div>
   <h2>Sobre mi</h2>
-  <p>Soy Martin Nahuel Romero, tengo 19 años, me gusta capacitarme constantemente, soy autodidacta y apasionado por el mundo de la tecnología. Busco mejorar mis habilidades como programador, superarme día a día y progresar. Me especializo en desarrollo web tanto en backend como frontend.</p>
+  <p>Full stack developer, me gusta capacitarme constantemente, soy autodidacta y apasionado por el mundo de la tecnología. Busco mejorar mis habilidades como programador, superarme día a día y progresar.</p>
 </div>
 
 <div>
