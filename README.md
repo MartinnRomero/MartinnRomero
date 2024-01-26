@@ -1,12 +1,12 @@
 
 <div align="center">
   <h1 align="center" justify-content="center"> Hola, soy Martin Nahuel Romero</h1>
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&pause=1000&center=true&width=470&lines=Web+developer+full+stack;Estudiando+ciencias+de+la+computacion;Tecnico+en+computacion" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&pause=1000&center=true&width=470&lines=Full+stack+web+developer;Estudiando+ciencias+de+la+computacion;Tecnico+en+computacion" alt="Typing SVG" /></a>
 </div>
 
 <div>
   <h2>Sobre mi</h2>
-  <p>Full stack developer, me gusta capacitarme constantemente, soy autodidacta y apasionado por el mundo de la tecnología. Busco mejorar mis habilidades como programador, superarme día a día y progresar.</p>
+  <p>Full stack web developer. Me gusta capacitarme constantemente, soy autodidacta y apasionado por el mundo de la tecnología. Busco mejorar mis habilidades como programador, superarme día a día y progresar. Tengo experiencia trabajando con Angular, NodeJs, Mysql, MongoDB, AWS S3 y RxJS</p>
 </div>
 
 <div>
